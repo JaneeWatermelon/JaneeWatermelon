@@ -1,12 +1,12 @@
 <h1 align="center">Привет, меня зовут <a href="https://t.me/evgeniy_warer" target="_blank">Евгений</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python программист, аналитик данных, дизайнер</h3>
+<h3 align="center">Python программист, дата-аналитик, дизайнер</h3>
 
 
 - 🔭 На данный момент работаю над <a href="https://github.com/WarerCode/collage-bot/" target="_blank">Ботом по созданию коллажей</a> 
 - 🌱 На данный момент изучаю Data Science 
 - 📫 Связаться со мной: <a href="https://t.me/evgeniy_warer" target="_blank">![telegram](https://github.com/user-attachments/assets/deebd7c2-a896-492d-9507-738b343f03de)</a> <a href="https://vk.com/evvgeenii" target="_blank">![vk](https://github.com/user-attachments/assets/6ef1f1ab-a764-4e35-97ea-5533e9b941b7)</a>
-- ⚡ Забавный факт: не придумал)
+- ⚡ Забавный факт: помню большую часть своих снов)
 
 
 ## Владею навыками: 
